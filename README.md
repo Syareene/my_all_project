@@ -1,3 +1,0 @@
-# my_all_project
-
-writing in progress...
